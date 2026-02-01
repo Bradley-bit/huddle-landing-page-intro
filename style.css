@@ -93,6 +93,11 @@ p {
     .container img {
         width:  60%;
     }
+    .register {
+        padding: 20px 80px;
+    font-size: 18px;
+
+    }
     .socials {
         align-self: flex-end;
     }
