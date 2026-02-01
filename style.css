@@ -73,6 +73,7 @@ p {
     width: 30px;
     height: 30px;
     border-radius: 50px;
+    fill : hsl(0, 0%, 100%);
     border: 1px solid hsl(0, 0%, 100%);
     padding: 5px ;
 }
