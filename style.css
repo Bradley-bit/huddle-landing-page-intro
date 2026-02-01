@@ -73,3 +73,19 @@ p {
     border: 1px solid white;
     padding: 5px ;
 }
+
+@media (width > 1800px) {
+    .container {
+        width: 1800px;
+        margin: 0 auto;
+        padding: 40px;
+        display: flex;
+        justify-content: space-around;
+    }
+    .container img {
+        width:  60%;
+    }
+    .socials {
+        align-self: flex-end;
+    }
+}
